@@ -1,0 +1,30 @@
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\obj\Debug\Portada.csprojResolveAssemblyReference.cache
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\obj\Debug\Portada.Principal.resources
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\obj\Debug\Portada.Properties.Resources.resources
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\obj\Debug\Portada.csproj.GenerateResource.Cache
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe.config
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\bin\Debug\Portada.pdb
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\obj\Debug\Portada.exe
+C:\Users\87063\Documents\NOVENO CUATRIMESTRE\ARQUITECTURA ORIENTADA A SERVICIOS\APLICACIONES\ConsumirRecursoAPI\Portada\obj\Debug\Portada.pdb
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe.config
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\obj\Debug\Portada.exe
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\obj\Debug\Portada.pdb
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\bin\Debug\Portada.pdb
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\obj\Debug\Portada.csprojResolveAssemblyReference.cache
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\obj\Debug\Portada.Principal.resources
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\obj\Debug\Portada.Properties.Resources.resources
+C:\Users\onepi\Desktop\ConsumirRecursoAPI\Portada\obj\Debug\Portada.csproj.GenerateResource.Cache
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe.config
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\obj\Debug\Portada.exe
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\obj\Debug\Portada.pdb
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\bin\Debug\Portada.pdb
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\obj\Debug\Portada.csprojResolveAssemblyReference.cache
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\obj\Debug\Portada.Principal.resources
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\obj\Debug\Portada.Properties.Resources.resources
+C:\Users\onepi\Documents\9\Yanai\ConsumirRecursoAPI\Portada\obj\Debug\Portada.csproj.GenerateResource.Cache
+C:\Users\onepi\Documents\9\ConsumirRecursoAPI\Portada\bin\Debug\Portada.exe.config
+C:\Users\onepi\Documents\9\ConsumirRecursoAPI\Portada\obj\Debug\Portada.exe
+C:\Users\onepi\Documents\9\ConsumirRecursoAPI\Portada\obj\Debug\Portada.pdb
